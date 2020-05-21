@@ -171,7 +171,7 @@ if ( ! function_exists( 'twentynineteen_setup' ) ) :
 				),
 			)
 		);
-
+		//comentario de prueba
 		// Add support for responsive embedded content.
 		add_theme_support( 'responsive-embeds' );
 	}
