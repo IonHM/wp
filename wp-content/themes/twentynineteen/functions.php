@@ -51,6 +51,7 @@ if ( ! function_exists( 'twentynineteen_setup' ) ) :
 		 * @link https://developer.wordpress.org/themes/functionality/featured-images-post-thumbnails/
 		 */
 		add_theme_support( 'post-thumbnails' );
+		echo 'AAAAAA';
 		set_post_thumbnail_size( 1568, 9999 );
 
 		// This theme uses wp_nav_menu() in two locations.
@@ -171,6 +172,7 @@ if ( ! function_exists( 'twentynineteen_setup' ) ) :
 				),
 			)
 		);
+		//comentario de prueba de un FORK
 		//comentario de prueba
 		// Add support for responsive embedded content.
 		add_theme_support( 'responsive-embeds' );
