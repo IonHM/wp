@@ -52,6 +52,8 @@ if ( ! function_exists( 'twentynineteen_setup' ) ) :
 		 */
 		add_theme_support( 'post-thumbnails' );
 		echo 'AAAAAA';
+		echo 'EEE';
+		
 		set_post_thumbnail_size( 1568, 9999 );
 
 		// This theme uses wp_nav_menu() in two locations.
