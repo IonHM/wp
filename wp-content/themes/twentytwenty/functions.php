@@ -82,6 +82,7 @@ function twentytwenty_theme_support() {
 			'flex-width'  => true,
 		)
 	);
+	//Esto es un cambio
 
 	/*
 	 * Let WordPress manage the document title.
